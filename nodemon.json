@@ -1,0 +1,10 @@
+{
+    "env" : {
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "lionforce@147",
+        "MYSQL_DATABASE": "efood",
+        "MYSQL_HOST": "localhost",
+        "MYSQL_PORT": 3306
+
+    }
+}
